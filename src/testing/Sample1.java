@@ -17,7 +17,7 @@ public class Sample1 {
 		driver.findElement(By.xpath("//a[@id='nav-link-yourAc"
 				+ "count']/span[2]")).click();
 		
-		driver.findElement(By.id("createAccountSubmit")).click();
+		
 		
 		//System.out.println(driver.findElement(By.className("nav-line-2")).getText());
 		
